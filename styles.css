@@ -11700,11 +11700,18 @@ body {
   padding: 5rem 0;
 }
 
+#page-top1 {
+  background-color: gray;
+}
+
 .about-us {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+<<<<<<< HEAD
   background-color: gray;
+=======
+>>>>>>> 46cb55e821cf8357cf48d3319936a8f07cc1cbe6
 }
 
 .mat_name{
@@ -11818,7 +11825,10 @@ body {
   flex-wrap: wrap;
   flex-direction: row-reverse;
   background-color: #C8C6FA;
+<<<<<<< HEAD
   background: linear-gradient(to top, #000 0%, rgba(0, 0, 0, 0.3) 75%, rgba(0, 0, 0, 0.3) 100%);
+=======
+>>>>>>> 46cb55e821cf8357cf48d3319936a8f07cc1cbe6
   margin: 10px 0 0 0;
 }
 
@@ -11833,7 +11843,6 @@ body {
   width: 100%
   background-color: #00CC00;
   margin: 0 auto;
-  border: 2px solid red;
 }
 
 @media only screen and (min-width: 1001px) {
@@ -11853,7 +11862,11 @@ body {
   .text-part {
     display: flex;
     flex-wrap: wrap;
+<<<<<<< HEAD
     width: 100%
+=======
+    width: 60%
+>>>>>>> 46cb55e821cf8357cf48d3319936a8f07cc1cbe6
     background-color: #00CC00;
     margin: 0 auto;
   }
