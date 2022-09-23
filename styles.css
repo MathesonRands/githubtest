@@ -11701,17 +11701,7 @@ body {
 }
 
 #page-top1 {
-  background-color: gray;
-}
-
-.about-us {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-}
-
-.mat_name{
-    font-family: 'Akronim'; font-size: 24px;
+  background-color: #5D5D5D;
 }
 
 #mainNav1 {
@@ -11787,6 +11777,16 @@ body {
     outline: none;
     border-bottom: 0.25rem solid #64a19d;
   }
+}
+
+.about-us {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.mat_name{
+    font-family: 'Akronim'; font-size: 24px;
 }
 
 .about-us-section {
